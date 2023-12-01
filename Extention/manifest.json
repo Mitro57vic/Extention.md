@@ -1,0 +1,17 @@
+{
+    "manifest_version": 2,
+    "name": "",
+    "version": "1.0",
+    "description": "Generiert zufällige texte",
+    "permissions": [
+        "activeTab"
+    ],
+    "browser_action": {
+        "default_popup": "popup.html"
+    },
+    "icons": {
+        "16": "Herz.png",
+        "48": "Herz.png",
+        "128": "Herz.png"
+    }
+}
